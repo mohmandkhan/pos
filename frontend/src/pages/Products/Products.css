@@ -1,0 +1,16 @@
+.Products {
+    width: 100%;
+    display: block;
+    justify-content: center;
+}
+.Product {
+    margin-bottom: 10px;
+    float: left;
+    width: 25%;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 4px;
+}
+
+.Product img {
+    width: 100%;
+}
